@@ -5,7 +5,7 @@ the changes, does anyone else pull the branch. The tool prints the right
 `git reset`, `git revert` or reflog rescue — with a warning where the command
 bites.
 
-**Use it: <https://mrsaynothing.dev/en/tools/git-undo>**
+**Use it: <https://mrsaynothing.dev/en/hub/git-undo?utm_source=github&utm_medium=referral>**
 
 ## Why
 
