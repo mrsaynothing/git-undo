@@ -30,6 +30,23 @@ python3 -m http.server 8080
 
 Everything runs client-side. No account, no upload, no analytics, no cookies.
 
+## Embed it
+
+One static file — drop it anywhere, keep the MIT notice:
+
+```html
+<iframe
+  src="https://mrsaynothing.dev/en/hub/git-undo?utm_source=embed&utm_medium=referral"
+  title="Git undo generator"
+  style="width:100%;max-width:44rem;height:38rem;border:1px solid #2a2a2a;border-radius:8px"
+  loading="lazy"></iframe>
+```
+
+Or self-host: copy `index.html`, serve it, done.
+
+Made by [mrsaynothing.dev](https://mrsaynothing.dev/?utm_source=github&utm_medium=referral)
+— one post a day, every claim tested or consolidated from named sources.
+
 The version embedded in [mrsaynothing.dev](https://mrsaynothing.dev/?utm_source=github&utm_medium=referral)
 is the same logic as a static SvelteKit route.
 
